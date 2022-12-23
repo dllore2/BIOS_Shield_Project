@@ -9,4 +9,4 @@ Main features
 LEDS, 7 segments displays, variable resistors, buzzer, push-buttons, and more. Check the wiki for detailed information
 
 Licence
-- This is a free shareable proyect, if you like it, feel free to use it and share it with your friends.
+- This is a free shareable project, if you like it, feel free to use it and share it with your friends.
